@@ -1,0 +1,16 @@
+{
+  "name": "brainjs-color-changer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Mihailo Maksa",
+  "license": "MIT"
+}
